@@ -1,0 +1,15 @@
+// 重置样式
+
+// 滚动轴重置
+* ::-webkit-scrollbar {
+  width: 2px;
+  height: 0px;
+}
+
+* ::-webkit-scrollbar-thumb {
+  background: rgb(230, 230, 230);
+}
+
+* ::-webkit-scrollbar-corner {
+  width: 0px;
+}
